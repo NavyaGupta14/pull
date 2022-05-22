@@ -1,2 +1,5 @@
-this is scm
+this is scm<<<<<<< HEAD
 book
+taught by shikha mam
+tue thu
+
