@@ -1,4 +1,4 @@
-this is scm<<<<<<< HEAD
+this is scm
 book
 taught by shikha mam
 tue thu
